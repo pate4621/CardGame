@@ -20,7 +20,7 @@ public class Card {
             this.value = value;
             this.suit = suit;
         }
-                
+        commit on 9:40
 	public int getValue() {
 		return this.value;
 	}
