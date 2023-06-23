@@ -11,7 +11,7 @@ package cardgame;
 public class Card {
     private int value;
 	private String suit;
-        
+        //commit 1
         //create an array of possible suits
         public static final String[] SUITS=
         {"Hearts","Diamonds","Spades","Clubs"};
